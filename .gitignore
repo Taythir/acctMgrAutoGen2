@@ -1,0 +1,48 @@
+# Gradle build output
+/build/
+.gradle/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Local libraries
+lib/
+
+# Generated files
+bin/
+
+# Test reports
+/test-output/
+
+# Ignore user-specific files
+*.swp
+*.swo
+
+# Ignore coverage reports
+coverage/
+
+# Ignore other temp files
+*.tmp
+*.bak
+*.orig 
