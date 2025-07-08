@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="acctMgr.test.DepositAgentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-07-08T07:05:10.469Z" hostname="PALLADA" time="27.635">
+  <properties/>
+  <testcase name="testDepositAgent()" classname="acctMgr.test.DepositAgentTest" time="4.51"/>
+  <testcase name="testDepositAgent()" classname="acctMgr.test.DepositAgentTest" time="4.508"/>
+  <testcase name="testDepositAgent()" classname="acctMgr.test.DepositAgentTest" time="4.51"/>
+  <system-out><![CDATA[Balance 60.25
+Balance 60.25
+Balance 60.25
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

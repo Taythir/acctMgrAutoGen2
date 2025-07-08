@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="acctMgr.test.AccountThreadSafetyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-07-08T07:05:01.405Z" hostname="PALLADA" time="31.684">
+  <properties/>
+  <testcase name="testAccountThreadSafe()" classname="acctMgr.test.AccountThreadSafetyTest" time="4.515"/>
+  <testcase name="testAccountThreadSafe()" classname="acctMgr.test.AccountThreadSafetyTest" time="4.512"/>
+  <testcase name="testAccountThreadSafe()" classname="acctMgr.test.AccountThreadSafetyTest" time="4.51"/>
+  <system-out><![CDATA[deposit agent transferred 49.80
+withdraw agent transferred 100.70
+deposit agent transferred 49.80
+withdraw agent transferred 100.70
+deposit agent transferred 49.80
+withdraw agent transferred 100.70
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build/resources/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/main" path="src/main/resources">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+			<attribute name="resource" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="build/generated/sources/annotationProcessor/java/test">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/main" path="build/generated/sources/annotationProcessor/java/main">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.2/fb55d6e2bce173f35fd28422e7975539621055ef/junit-jupiter-api-5.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.10.2/b281dbb5921ce56b37b6e07a2502f663ca6c8db6/junit-jupiter-api-5.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite-api/1.10.2/174bba1574c37352b0eb2c06e02b6403738ad57c/junit-platform-suite-api-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite-api/1.10.2/30c82117d4c85668262bec729bbc6d39e3b332f0/junit-platform-suite-api-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/afb8ff23cffb021c56f333953aebfe6e8818568e/opentest4j-1.3.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.2/f1f8fe97bd58e85569205f071274d459c2c4f8cd/junit-jupiter-engine-5.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.10.2/624f71a8d76185f2ac8d234c686bbdab0bd28ae0/junit-jupiter-engine-5.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite/1.10.2/3234255109e0654a8785dcdbe1d35f8efe9fa77c/junit-platform-suite-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite/1.10.2/977cef92fa6cd3b233b23c8bb76a2404565d99d8/junit-platform-suite-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e0787a997746ac32639e0bf3cb27af8dce8a3428/apiguardian-api-1.1.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite-engine/1.10.2/867b962ce6eca5b105d8ae585fb5518d9d676b38/junit-platform-suite-engine-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite-engine/1.10.2/4a7a95c8438a70efe3a1cfaa35010fe1c7f0aaca/junit-platform-suite-engine-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite-commons/1.10.2/c4d607c0032ebd2755daf9838435788d7b7234f4/junit-platform-suite-commons-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-suite-commons/1.10.2/afc22c7aca5079fe60881f424aa77d4ce81ca28f/junit-platform-suite-commons-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.2/8125dd29e847ca274dd1a7a9ca54859acc284cb3/junit-platform-launcher-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.10.2/cab5a912975af7dc5d195970f8f1ca27f5caf35a/junit-platform-launcher-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.2/d53bb4e0ce7f211a498705783440614bfaf0df2e/junit-platform-engine-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.10.2/886c197f5fcfe9eaf0d1dde20aa1bd3abd653f44/junit-platform-engine-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.2/3197154a1f0c88da46c47a9ca27611ac7ec5d797/junit-platform-commons-1.10.2.jar" sourcepath="C:/Users/Dino/scoop/apps/gradle-bin/current/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.10.2/513097c1d045c39db2fa42a54f830d4358936dc3/junit-platform-commons-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle.buildServer" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

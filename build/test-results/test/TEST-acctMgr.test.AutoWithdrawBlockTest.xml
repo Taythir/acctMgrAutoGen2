@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="acctMgr.test.AutoWithdrawBlockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-08T07:05:33.090Z" hostname="PALLADA" time="0.503">
+  <properties/>
+  <testcase name="testWithdrawBlock()" classname="acctMgr.test.AutoWithdrawBlockTest" time="0.503"/>
+  <system-out><![CDATA[take thread interrupted
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

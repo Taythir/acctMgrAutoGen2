@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="acctMgr.test.WithdrawAgentTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-07-08T07:05:14.981Z" hostname="PALLADA" time="27.635">
+  <properties/>
+  <testcase name="testWithdrawAgent()" classname="acctMgr.test.WithdrawAgentTest" time="4.509"/>
+  <testcase name="testWithdrawAgent()" classname="acctMgr.test.WithdrawAgentTest" time="4.512"/>
+  <testcase name="testWithdrawAgent()" classname="acctMgr.test.WithdrawAgentTest" time="4.511"/>
+  <system-out><![CDATA[Balance 29.40
+Balance 29.40
+Balance 29.40
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

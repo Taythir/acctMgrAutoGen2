@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="acctMgr.test.AccountTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-07-08T07:05:01.296Z" hostname="PALLADA" time="27.281">
+  <properties/>
+  <testcase name="testOverdrawException()" classname="acctMgr.test.AccountTest" time="0.042"/>
+  <testcase name="testWithdraw()" classname="acctMgr.test.AccountTest" time="0.049"/>
+  <testcase name="testDeposit()" classname="acctMgr.test.AccountTest" time="0.01"/>
+  <testcase name="testOverdrawException()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <testcase name="testWithdraw()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <testcase name="testDeposit()" classname="acctMgr.test.AccountTest" time="0.009"/>
+  <testcase name="testOverdrawException()" classname="acctMgr.test.AccountTest" time="0.009"/>
+  <testcase name="testWithdraw()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <testcase name="testDeposit()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <testcase name="testOverdrawException()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <testcase name="testWithdraw()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <testcase name="testDeposit()" classname="acctMgr.test.AccountTest" time="0.008"/>
+  <system-out><![CDATA[Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

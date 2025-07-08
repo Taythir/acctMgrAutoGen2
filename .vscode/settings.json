@@ -1,0 +1,8 @@
+{
+  // Tell the Java Language Server where your .java files live
+  "java.project.sourcePaths": ["src/main/java"],
+  // (Optional) Where compiled classes go
+  "java.project.outputPath": "build/classes",
+  // (Optional) Any local JAR dependencies
+  "java.project.referencedLibraries": ["lib/**/*.jar"]
+}

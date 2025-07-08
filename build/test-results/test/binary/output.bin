@@ -1,0 +1,29 @@
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+!deposit agent transferred 49.80
+#withdraw agent transferred 100.70
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+	deposit, new balance = 300.85
+
+!deposit agent transferred 49.80
+
+#withdraw agent transferred 100.70
+Balance 60.25
+Balance 29.40
+Balance 60.25
+Balance 29.40
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+Jake 437 3299.65
+Jake 437 3299.65
+Overdraw by $-9.55
+withdraw, new balance = 89.90
+deposit, new balance = 300.85
+!deposit agent transferred 49.80
+#withdraw agent transferred 100.70
+ take thread interrupted
+!Balance 60.25
+"Balance 29.40
