@@ -92,6 +92,9 @@ public class Account extends AbstractModel {
         
         // Determine locking order to avoid deadlock
         Account first, second;
+        first = this;
+        second = target;
+		/*
         int cmp = this.ID.compareTo(target.ID);
         if (cmp < 0) {
             first = this;
@@ -109,6 +112,7 @@ public class Account extends AbstractModel {
                 second = this;
             }
         }
+		*/
         
         synchronized(first) {
             synchronized(second) {
